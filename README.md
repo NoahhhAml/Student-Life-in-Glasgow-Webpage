@@ -1,1 +1,1 @@
-## Student Life in Glasgow
+# Student Life in Glasgow
